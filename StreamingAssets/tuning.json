@@ -6,7 +6,7 @@
     "MaxMana": 10,
     "StartingMana": 5,
     "ManaRegenInterval": 2.5,
-    "MatchDeckSize": 8,
+    "MatchDeckSize": 0,
     "HandSize": 4,
     "DrawTimeLimit": 0.0,
     "FingerReleaseGracePeriod": 1.0,

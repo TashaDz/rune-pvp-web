@@ -23,7 +23,7 @@
     "TowerRange": 0.09000000357627869,
     "TowerDamage": 42.0,
     "TowerAttackInterval": 0.8999999761581421,
-    "AvatarHp": 800,
+    "AvatarHp": 1040,
     "AvatarLanePos": 0.05000000074505806,
     "AvatarRespawnFraction": 0.05000000074505806,
     "MinionWaveInterval": 8.0,

@@ -26,6 +26,7 @@
     "AvatarHp": 1040,
     "AvatarLanePos": 0.05000000074505806,
     "AvatarRespawnFraction": 0.05000000074505806,
+    "GuardResist": 0.5,
     "MinionWaveInterval": 8.0,
     "FirstWaveDelay": 2.0,
     "MinionsPerWave": 3,
@@ -60,5 +61,7 @@
     "BotDrawTimeMin": 0.800000011920929,
     "BotDrawTimeMax": 1.600000023841858,
     "BotManaReserve": 2,
-    "BotScoreNoise": 0.15000000596046449
+    "BotScoreNoise": 0.15000000596046449,
+    "BotGuardChance": 0.699999988079071,
+    "BotGuardReaction": 0.25
 }
